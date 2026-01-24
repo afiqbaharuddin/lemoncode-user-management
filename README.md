@@ -326,11 +326,11 @@ This project is licensed under the MIT License.
 
 ## 👥 Authors
 
-- Your Team Name
+- Afiq Baharuddin - Fullstack Software Developer
 
 ## 📞 Support
 
-For support, email your-email@example.com or open an issue in the repository.
+For support, email mafqqq16@gmail.com or open an issue in the repository.
 
 ---
 
